@@ -1,0 +1,31 @@
+Pizza_Id,Pizza_Name,Category,Size,Price
+1,Margherita,Veg,S,100
+2,Margherita,Veg,M,150
+3,Margherita,Veg,L,200
+4,Farmhouse,Veg,S,150
+5,Farmhouse,Veg,M,225
+6,Farmhouse,Veg,L,300
+7,Peppy Paneer,Veg,S,120
+8,Peppy Paneer,Veg,M,180
+9,Peppy Paneer,Veg,L,260
+10,Veggie Paradise,Veg,S,150
+11,Veggie Paradise,Veg,M,230
+12,Veggie Paradise,Veg,L,300
+13,Veg Combo,Veg,S,400
+14,Veg Combo,Veg,M,600
+15,Veg Combo,Veg,L,800
+16,Chicken Tikka,Non-Veg,S,200
+17,Chicken Tikka,Non-Veg,M,300
+18,Chicken Tikka,Non-Veg,L,400
+19,Pepper BBQ Chicken,Non-Veg,S,300
+20,Pepper BBQ Chicken,Non-Veg,M,450
+21,Pepper BBQ Chicken,Non-Veg,L,600
+22,Chicken Sausage,Non-Veg,S,200
+23,Chicken Sausage,Non-Veg,M,300
+24,Chicken Sausage,Non-Veg,L,400
+25,Non-Veg Supreme,Non-Veg,S,230
+26,Non-Veg Supreme,Non-Veg,M,360
+27,Non-Veg Supreme,Non-Veg,L,480
+28,Non-Veg Combo,Non-Veg,S,450
+29,Non-Veg Combo,Non-Veg,M,690
+30,Non-Veg Combo,Non-Veg,L,820
